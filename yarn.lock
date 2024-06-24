@@ -3748,9 +3748,7 @@
   integrity sha512-+9jVqKhRSpsc591z5vX+X5Yyw+he/HCB4iQ/RYxw35CEPaY1gnsNE43nf9n9AaYjAQrTiI/mOwKUKdUs9vf7Xg==
 
 "@storybook/addon-a11y@^7.0.6":
-  version "7.0.24"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-a11y/-/addon-a11y-7.0.24.tgz#18a5312655c4e4f1c1e25471d96b51a018ef7c6e"
-  integrity sha512-5HkQhen9lyp5equRKfr4ap3+wUSWby8NMEnWedCSeghsjrwUq3tuXxYLMrCx00WlJmJTduEyJEM+tQeoPSGAzA==
+  version "7.6.20"
   dependencies:
     "@storybook/addon-highlight" "7.0.24"
     "@storybook/channels" "7.0.24"
@@ -3849,9 +3847,7 @@
     ts-dedent "^2.0.0"
 
 "@storybook/addon-essentials@^7.0.6":
-  version "7.0.24"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-essentials/-/addon-essentials-7.0.24.tgz#a1f17db5efdba0a0c52057483dfdec42adc1d551"
-  integrity sha512-OL27TNQYUJv/FprFCU7Q9RQYrgGdM+4SH+XmsQCcuQuGa67s6/eRKyERwOdy4Pli3Payo76+Vz1DAeJZJ0F8oA==
+  version "7.6.20"
   dependencies:
     "@storybook/addon-actions" "7.0.24"
     "@storybook/addon-backgrounds" "7.0.24"
@@ -3878,9 +3874,7 @@
     "@storybook/preview-api" "7.0.24"
 
 "@storybook/addon-interactions@^7.0.6":
-  version "7.0.24"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-interactions/-/addon-interactions-7.0.24.tgz#ccd2bcb48819cadb2da035d700922a84ccfc368f"
-  integrity sha512-N0BWt13T8lA+L0pAcC3xwhVMWQhrwHaXFqC6aJ1OxJb9pkA85S6Pk7VJRATDpmu9C3JO0OU3EOBB2YVVwcmD0A==
+  version "7.6.20"
   dependencies:
     "@storybook/client-logger" "7.0.24"
     "@storybook/components" "7.0.24"
@@ -3897,9 +3891,7 @@
     ts-dedent "^2.2.0"
 
 "@storybook/addon-links@^7.0.6":
-  version "7.0.24"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-links/-/addon-links-7.0.24.tgz#b70d754e1640f149a0eb4f2595438bd760f8286a"
-  integrity sha512-/Hse4IC3ov2dVzpZiIpf2QNFczi4pxdjZdmR0FhKeRlFldEJyywgT8a/gzeEahXO9v1jsEDa7j7f8JQcu/+04w==
+  version "7.6.20"
   dependencies:
     "@storybook/client-logger" "7.0.24"
     "@storybook/core-events" "7.0.24"
@@ -4475,9 +4467,7 @@
   integrity sha512-YOP1C3dWTLYP5mPb7hNuDRIhADzz+ppfb+S22JNJ3kqm+tsyE/YtAbRf80k6QIG1LzukMpGoEnjjOPOsWsyvFQ==
 
 "@storybook/react-webpack5@^7.0.6":
-  version "7.0.24"
-  resolved "https://registry.yarnpkg.com/@storybook/react-webpack5/-/react-webpack5-7.0.24.tgz#22e4d5101ecc0e5918badd56772389cf8b449edc"
-  integrity sha512-z5TwjpLeNXyNAPVGvTsHcXa9sjOop4lorWa++prJAY5Bpx+2//dq/O8poQat7KivtwCBmAlgYWqW52AcxXwYXA==
+  version "7.6.20"
   dependencies:
     "@storybook/builder-webpack5" "7.0.24"
     "@storybook/preset-react-webpack" "7.0.24"
@@ -17217,9 +17207,7 @@ store2@^2.14.2:
   integrity sha512-siT1RiqlfQnGqgT/YzXVUNsom9S0H1OX+dpdGN1xkyYATo4I6sep5NmsRD/40s3IIOvlCq6akxkqG82urIZW1w==
 
 storybook@^7.0.6:
-  version "7.0.24"
-  resolved "https://registry.yarnpkg.com/storybook/-/storybook-7.0.24.tgz#5194d7b72964669985b8c2227772e882e6ae2563"
-  integrity sha512-ilQDM4+KaNO8s5jU4EnS68JWb9KaLR0+xTNa/BEXQa18SnSt/qZYORXtqispwkyuL/9xwaMVwtS+st7JOucNWA==
+  version "7.6.20"
   dependencies:
     "@storybook/cli" "7.0.24"
 
